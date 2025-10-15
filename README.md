@@ -33,7 +33,7 @@ A clean, end‑to‑end playbook to turn a **Raspberry Pi Zero W** into a Wi‑F
 ```bash
 sudo su     # become root because the installer expects root
 cd /root
-git clone https://github.com/lordcast/rpi_hotspot_mavlink
+git clone https://github.com/dsdtech/rpi_hotspot_mavlink
 cd rpi_hotspot_mavlink
 chmod +x Rpihotspot_buster
 ```
